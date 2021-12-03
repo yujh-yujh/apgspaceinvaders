@@ -1,3 +1,7 @@
+NOTE: WHEN OPENING THE DIRECTORY RUN 
+    
+    `git clone https://gitlab.com/apgoucher/lifelib`
+
 This program searches random initial configurations in Conway's Game
 of Life and periodically uploads results to a remote server. You can
 read more information about the distributed search at the following URL:
