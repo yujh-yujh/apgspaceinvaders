@@ -1,0 +1,6 @@
+**/*.o
+**/*.op
+**/*.gcda
+apgluxe
+apgluxe-profile
+includes/params.h
